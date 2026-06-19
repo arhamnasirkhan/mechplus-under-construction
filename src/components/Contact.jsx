@@ -92,9 +92,9 @@ ${formData.message}`;
                 <p className="font-label-md text-label-md text-on-surface-variant">Phone</p>
                 <a
                   className="font-headline-sm text-headline-sm text-primary hover:text-secondary transition-colors"
-                  href="tel:+13062511590"
+                  href="tel:+16395256959"
                 >
-                  +1 306 251 1590
+                  +1 (639) 525-6959
                 </a>
               </div>
             </div>
@@ -156,7 +156,7 @@ ${formData.message}`;
                   onChange={handleChange}
                   required
                   className="w-full bg-white border border-outline-variant focus:border-primary focus:ring-1 focus:ring-primary rounded-lg px-4 py-3 outline-none"
-                  placeholder="+1 306 000 0000"
+                  placeholder="+1 (639) 000-0000"
                   type="tel"
                 />
               </div>
