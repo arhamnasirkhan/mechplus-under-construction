@@ -31,7 +31,7 @@ const Hero = () => {
             </a>
             <a
               className="bg-white/10 backdrop-blur-md border border-white/20 hover:bg-white/20 text-white px-8 py-4 rounded-xl font-label-md text-label-md text-center transition-all flex items-center justify-center gap-2"
-              href="tel:6395256959"
+              href="tel:+13062511590"
             >
               <span className="material-symbols-outlined">call</span> Call Now
             </a>

@@ -54,7 +54,7 @@ const Contact = () => {
 ${formData.message}`;
         
         // 1 is the country code for US/Canada, followed by the company phone number
-        const whatsappUrl = `https://wa.me/16395256959?text=${encodeURIComponent(whatsappMessage)}`;
+        const whatsappUrl = `https://wa.me/13062511590?text=${encodeURIComponent(whatsappMessage)}`;
         window.open(whatsappUrl, '_blank');
         // -------------------------
 
@@ -92,9 +92,9 @@ ${formData.message}`;
                 <p className="font-label-md text-label-md text-on-surface-variant">Phone</p>
                 <a
                   className="font-headline-sm text-headline-sm text-primary hover:text-secondary transition-colors"
-                  href="tel:6395256959"
+                  href="tel:+13062511590"
                 >
-                  639-525-6959
+                  +1 306 251 1590
                 </a>
               </div>
             </div>
@@ -156,7 +156,7 @@ ${formData.message}`;
                   onChange={handleChange}
                   required
                   className="w-full bg-white border border-outline-variant focus:border-primary focus:ring-1 focus:ring-primary rounded-lg px-4 py-3 outline-none"
-                  placeholder="639-000-0000"
+                  placeholder="+1 306 000 0000"
                   type="tel"
                 />
               </div>
