@@ -6,6 +6,7 @@ import Packages from './components/Packages';
 import Addons from './components/Addons';
 import Process from './components/Process';
 import Gallery from './components/Gallery';
+import Reviews from './components/Reviews';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -44,6 +45,7 @@ function App() {
         <Addons />
         <Process />
         <Gallery />
+        <Reviews />
         <Contact />
       </main>
       <Footer />
