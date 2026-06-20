@@ -30,7 +30,7 @@ const Reviews = () => {
       <div className="relative z-10">
         <div className="text-center mb-16 reveal">
           <span className="inline-block bg-surface-container-high text-primary font-label-md text-label-md px-4 py-1 rounded-full mb-4 tracking-widest uppercase border border-outline-variant">
-            Testimonials
+            Customer Reviews
           </span>
           <h2 className="font-headline-lg text-headline-lg-mobile lg:text-headline-lg text-primary mb-6">
             What Our Clients Say
