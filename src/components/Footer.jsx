@@ -19,7 +19,7 @@ const Footer = () => {
             />
           </div>
           <p className="text-on-primary/70 font-body-md mb-8">
-            © {currentYear || '2024'} MechPlus Auto Care. Engineering Excellence in automotive aesthetics and protection. Providing premier detailing services to Saskatoon and surrounding areas.
+            © {currentYear || '2026'} MechPlus Auto Care. Engineering Excellence in automotive aesthetics and protection. Providing premier detailing services to Saskatoon and surrounding areas.
           </p>
           <div className="flex gap-4">
             <a
