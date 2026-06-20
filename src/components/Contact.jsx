@@ -167,7 +167,6 @@ ${formData.message}`;
                 name="email"
                 value={formData.email}
                 onChange={handleChange}
-                required
                 className="w-full bg-white border border-outline-variant focus:border-primary focus:ring-1 focus:ring-primary rounded-lg px-4 py-3 outline-none"
                 placeholder="your@email.com"
                 type="email"
