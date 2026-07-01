@@ -112,15 +112,7 @@ ${formData.message}`;
                 </a>
               </div>
             </div>
-            <div className="flex items-start gap-4">
-              <div className="w-12 h-12 rounded-full bg-surface-container-high flex items-center justify-center text-primary flex-shrink-0">
-                <span className="material-symbols-outlined">location_on</span>
-              </div>
-              <div>
-                <p className="font-label-md text-label-md text-on-surface-variant">Address</p>
-                <p className="font-headline-sm text-headline-sm text-primary">501-B 45th St E, Saskatoon, SK</p>
-              </div>
-            </div>
+
           </div>
         </div>
         <div className="glass-card p-8 md:p-10 rounded-2xl reveal">

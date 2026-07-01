@@ -54,9 +54,6 @@ const Packages = () => {
                 <span className="material-symbols-outlined text-secondary text-xl">check_circle</span>Deep Interior Steam Clean
               </li>
               <li className="flex items-center gap-3">
-                <span className="material-symbols-outlined text-secondary text-xl">check_circle</span>Ceramic Paint Protectant
-              </li>
-              <li className="flex items-center gap-3">
                 <span className="material-symbols-outlined text-secondary text-xl">check_circle</span>Dashboard &amp; Trim Restorer
               </li>
               <li className="flex items-center gap-3">
@@ -83,10 +80,10 @@ const Packages = () => {
                 <span className="material-symbols-outlined text-secondary text-xl">check_circle</span>Leather Conditioning
               </li>
               <li className="flex items-center gap-3">
-                <span className="material-symbols-outlined text-secondary text-xl">check_circle</span>Advanced UV Protection
+                <span className="material-symbols-outlined text-secondary text-xl">check_circle</span>Pet Hair Removal
               </li>
               <li className="flex items-center gap-3">
-                <span className="material-symbols-outlined text-secondary text-xl">check_circle</span>Pet Hair &amp; Stain Removal
+                <span className="material-symbols-outlined text-secondary text-xl">check_circle</span>Stain Removal
               </li>
               <li className="flex items-center gap-3">
                 <span className="material-symbols-outlined text-secondary text-xl">check_circle</span>Odor Neutralization

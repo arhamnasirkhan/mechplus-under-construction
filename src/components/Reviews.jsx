@@ -16,7 +16,7 @@ const reviews = [
   {
     id: 3,
     name: 'David R.',
-    text: "I've tried several detailing spots in Saskatoon, but none compare to this. The interior was spotless and smelled amazing. Worth every penny.",
+    text: "I've tried several detailing spots in town, but none compare to this. The interior was spotless and smelled amazing. Worth every penny.",
     service: 'Interior Restoration'
   }
 ];
@@ -35,9 +35,13 @@ const Reviews = () => {
           <h2 className="font-headline-lg text-headline-lg-mobile lg:text-headline-lg text-primary mb-6">
             What Our Clients Say
           </h2>
-          <p className="text-on-surface-variant max-w-2xl mx-auto">
-            Don't just take our word for it. Read how we've transformed vehicles and exceeded expectations for car owners across Saskatoon.
+          <p className="text-on-surface-variant max-w-2xl mx-auto mb-6 md:mb-0">
+            Don't just take our word for it. Read how we've transformed vehicles and exceeded expectations for car owners.
           </p>
+          <div className="md:hidden flex items-center justify-center gap-2 text-primary font-label-sm text-label-sm animate-pulse">
+            <span>Swipe to see more</span>
+            <span className="material-symbols-outlined text-sm">arrow_forward</span>
+          </div>
         </div>
 
         {/* Carousel / Grid container */}
